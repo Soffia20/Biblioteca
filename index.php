@@ -1,6 +1,9 @@
 <!-- Extrae el controlador
  Es la logica que une config/routes junto con idex para abrir las paginas No Necesitas Modificar Nada -->
 <?php
+
+    session_start();
+    
     // error_reporting(E_ALL);
     // ini_set('display_errors', 1);
 
